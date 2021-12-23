@@ -1,4 +1,4 @@
-# Homework-1
+# The-Horiseon-Project
 
 (Homework-1: Refactoring)
 
@@ -55,11 +55,11 @@ On-the-job ticket scenario where another developers work has to be corrected and
 
 #### URL (Github Repository):
 
-Click [here](https://github.com/jasonjayoo/Homework-1) to go to Homework-1 Github Repository
+Click [here](https://github.com/jasonjayoo/The-Horiseon-Project) to go to The-Horiseon-Project Github Repository
 
 <br>
 
 #### URL (Published Webpage):
 
-<a href="https://jasonjayoo.github.io/Homework-1/" target="_blank">Homework-1</a>
+<a href="https://jasonjayoo.github.io/The-Horiseon-Project/" target="_blank">The-Horiseon-Project</a>
 
